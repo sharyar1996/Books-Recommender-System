@@ -32,3 +32,12 @@ Try the app here: [Books Recommender System on Hugging Face Spaces](https://hugg
 
 ## 📂 Repository Structure
 
+Books_Recommender_System/
+│
+├── streamlit_app.py # Main Streamlit app
+├── pivot_table.pkl # Pivot table of books x users
+├── similarity.pkl # Cosine similarity matrix
+├── books.pkl # Books dataframe
+├── popular_books.pkl # Top 50 popular books dataframe
+├── requirements.txt # Python dependencies
+└── README.md # Project overview
