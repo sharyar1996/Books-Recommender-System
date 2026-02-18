@@ -34,6 +34,7 @@ Try the app here: [Books Recommender System on Hugging Face Spaces](https://hugg
 
 Books_Recommender_System/
 │
+
 ├── streamlit_app.py # Main Streamlit app
 
 ├── pivot_table.pkl # Pivot table of books x users
